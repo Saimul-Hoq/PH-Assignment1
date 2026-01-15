@@ -20,7 +20,7 @@
 }
 
 .btn:hover{
-    background-color: #09622e;
+    background-color:cadetblue;
     /* box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.378); */
     cursor: pointer;
     border: 1px solid black;
@@ -53,4 +53,49 @@ nav a:hover{
 nav img{
     max-width: 139px;
     margin-top: 16px;
+}
+#banner{
+    background-image: url('../assets/hero-bg.png');
+    padding-top: 115px;
+    padding-bottom: 179px;
+}
+
+.banner-container{
+    width: 85%;
+    max-width: 1360px;
+    text-align: center;
+    margin: 0 auto;
+}
+#earlyAccess{
+    max-width: 229px;
+    margin:0 auto;
+    background-color: #FFFFFF;
+    color: #469165;
+    border-radius: 1000px;
+    font-size: 16px;
+    padding: 8px 12px;
+    font-weight: 600px;
+}
+
+#h-1, #h-2{
+    font-size: 72px;
+    font-weight: bold;
+    color:#FFFFFF;
+    line-height: 84px;
+}
+#h-2{
+    color: #30B868;
+}
+#prg{
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+#how{
+    background-color: transparent;
+    border: 1px solid #FFFFFF;
+    margin-left: 16px;
+}
+#how:hover{
+    background-color: cadetblue;
 }
