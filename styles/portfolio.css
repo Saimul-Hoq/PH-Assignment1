@@ -188,3 +188,35 @@ nav img{
     color: #001931;
     margin-bottom: 16px;
 }
+.earlyAccess{
+    padding-bottom: 120px;
+
+}
+.earlyAccess .earlyAccess-container{
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #F7F6F2;
+    border-radius: 12px;
+    padding: 80px 40px;
+}
+.earlyAccess-container h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+.earlyAccess-container #p-1, #p-2{
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+    margin-bottom: 24px;
+}
+.earlyAccess-container button{
+    box-shadow: 0 10px 20px 0 #00000048;
+}
+.earlyAccess-container #p-2{
+    margin-top: 16px;
+    line-height: 20px;
+}
