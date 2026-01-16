@@ -220,3 +220,47 @@ nav img{
     margin-top: 16px;
     line-height: 20px;
 }
+footer{
+    padding-top: 120px;
+    padding-bottom: 30px;
+    background-color: #001931;
+}
+.f1{
+    display: flex;
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+.f1 h5{
+    font-size: 20px;
+    font-weight: 600px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+.icons{
+    color: #FFFFFF;
+    margin-right: 16px;
+}
+.icons:hover{
+    font-size: 1.5em;
+    color:cadetblue;
+}
+.f2{
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+}
+.f2 hr{
+    margin-bottom: 30px;
+    color: #FAFAFA;
+}
+.f2 p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FAFAFA;
+}
+
