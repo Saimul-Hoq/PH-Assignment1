@@ -145,3 +145,46 @@ nav img{
     color: #001931;
     margin-bottom: 16px;
 }
+
+.brain{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.brain-container{
+    display: flex;
+    margin:0 auto;
+    width: 85%;
+    max-width: 1360px;
+    align-items: center;
+    gap:60px;
+}
+.brain-container h5{
+    font-size: 16px;
+    font-weight: 600px;
+    line-height: 20px;
+    color: #469165;
+    margin-bottom: 16px;
+}
+.brain-container h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+.brain-container #description{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+.check{
+    color: #30B868;
+}
+.check-p{
+    font-size: 16px;
+    font-weight: 600px;
+    line-height: 20px;
+    color: #001931;
+    margin-bottom: 16px;
+}
